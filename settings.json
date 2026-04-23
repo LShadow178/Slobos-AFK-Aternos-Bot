@@ -8,7 +8,7 @@
   "server": {
     "ip": "Diversionsmp.aternos.me",
     "port": 42353,
-    "version": "",
+    "version": 1.21.11,
     "try-creative": false
   },
   "position": {
@@ -23,7 +23,7 @@
       "password": "chalol78"
     },
     "anti-afk": {
-      "enabled": true,
+      "enabled": false,
       "sneak": true
     },
     "chat-messages": {
